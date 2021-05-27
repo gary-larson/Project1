@@ -47,5 +47,7 @@ This project is mainly for learning and practicing simple HIVE commands in real 
     1. ``` beeline -u jdbc:hive2:// ```
 ## Usage - for usage see presentation
 Enter the command from the presentation at the beeline prompt and you will see the results when the command has completed
+## Contributors
+Gary Larson
 ## License
 This project uses the following license: 
